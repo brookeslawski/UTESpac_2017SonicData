@@ -4,6 +4,14 @@ derek591@gmail.com
 Version 4.1 
 Version Date: 15 January 2017
 
+Modified by: Brooke Stanislawski
+Changes were made to the following files:
+findFiles.m - changed location of date b/c of different filename format
+outputdata.m - created this file to process and plot the output from UTESpac
+getData_Derek.m - changed name of this file b/c another getData file was tried
+siteInfo.m - modified for specific experiment's parameters
+
+
 About:
 
 UTESpac is designed specifically for use with Campbell Scientific dataloggers and accompanying LoggerNet software with
